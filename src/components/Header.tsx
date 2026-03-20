@@ -32,7 +32,7 @@ export const Header: React.FC = () => {
         marginBottom: '2rem'
       }}>
         <div style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
-          <h1 className="title" style={{ margin: 0, fontSize: '1.75rem' }}>Statz</h1>
+          <h1 className="title" style={{ margin: 0, fontSize: '1.75rem' }}>softball-statz</h1>
           
           <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', background: 'rgba(0,0,0,0.3)', padding: '0.25rem 0.5rem', borderRadius: '8px' }}>
             <select 
